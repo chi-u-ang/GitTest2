@@ -8,6 +8,5 @@ public class Git {
         System.out.println("李闯三爸");
         System.out.println("master test");
         System.out.println("hot_fix test");
-
     }
 }
